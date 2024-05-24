@@ -5,7 +5,7 @@ import React, { useEffect, useState } from "react";
 export function TypingEffect() {
   return (
     <div>
-      <div className="font-mono text-[8px] xl:text-xl font-mono typing-container">
+      <div className="font-mono text-[10px] xl:text-xl font-mono typing-container">
         <div className=" typing">
           my name is norman au. i was bitten by a radioactive spider...
           <span className="animate-blink">|</span>
