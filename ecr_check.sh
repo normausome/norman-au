@@ -23,7 +23,7 @@ LAST_DIGEST=$(get_latest_digest)
 echo "$LAST_DIGEST"
 
 # File to store the last known digest
-DIGEST_FILE="last_digest.txt"
+DIGEST_FILE="/home/ubuntu/website/last_digest.txt"
 
 # Get the last known digest
 if [ -f "$DIGEST_FILE" ]; then
