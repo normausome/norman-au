@@ -1,6 +1,6 @@
 export default function Page() {
   return (
-    <div className="fixed top-0 left-1/2 transform -translate-x-1/2 pt-20 w-5/6 lg:w-3/4">
+    <div className="flex flex-col items-center pt-20 w-5/6 lg:w-3/4 mx-auto">
       <section className="border border-gray-300 shadow-lg p-6">
         <h1>O Brasil com &quot;s&quot;</h1>
         <p>
