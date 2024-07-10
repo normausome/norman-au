@@ -26,7 +26,7 @@ export function NavigationMenuCustom() {
     );
 
   return (
-    <div>
+    <div className="flex flex-col items-center pt-8">
       <NavigationMenu>
         <NavigationMenuList>
           <NavigationMenuItem>
