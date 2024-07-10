@@ -12,17 +12,18 @@ export default function Page() {
           To only know Brazil with the &quot;z&quot; in terms of being a tourist
           is completely fine. You will definitely enjoy it. There is a lot to
           see like the beautiful beaches along the coast, the rainforest (Amazon
-          and Atlantic), the mountain ranges, and desserts.
+          and Atlantic), the mountain ranges, and deserts.
         </p>
         <br />
         <p>
           Now to know Brasil with the &quot;s&quot; is to learn the way of the
-          brasileiro. This ranges from Capoeira, Samba, Futevolei, Altinha,
-          Forro, and of course Portugues do Brasileiros. You will have to learn
-          the language, but you do not need to be fluent because their
-          hospitality will make up for any of the words you don&apos;t know.
-          Instead of just enjoying Brasil, you might fall in love with
-          everything the country has to offer!!!!
+          brasileiro. Brasil is rich in people, culture and history - people who
+          have come from Africa, Portugal, Germany, Italy, and Japan. This
+          ranges from Capoeira, Samba, Futevolei, Altinha, Forro, and of course
+          Portugues do Brasileiros. You will have to learn the language, but you
+          do not need to be fluent because their hospitality will make up for
+          any of the words you don&apos;t know. Instead of just enjoying Brasil,
+          you might fall in love with everything the country has to offer!
         </p>
         {/* <p>
           To preface, it started when I spent 3 weeks in Brasil visiting an old
