@@ -1,0 +1,7 @@
+/home/ubuntu/website/ecr_check.log {
+    size 5M
+    copytruncate
+    missingok
+    notifempty
+    rotate 0
+}
