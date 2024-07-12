@@ -1,7 +1,6 @@
-import Image from "next/image";
-
 import { ModeToggle } from "@/components/ModeToggle";
 import { TypingEffect } from "@/components/TypingEffect";
+import { NavigationMenuCustom } from "@/components/NavigationMenuCustom";
 
 export default function Home() {
   return (
