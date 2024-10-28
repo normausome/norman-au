@@ -2,7 +2,7 @@ export default function Page() {
   return (
     <div className="flex flex-col items-center pt-20 w-5/6 lg:w-3/4 mx-auto">
       <section className="border border-gray-300 shadow-lg p-6">
-        <h1>O BraSil com &quot;S&quot;</h1>
+        <h1>O BraSil com &quot;S&quot;!</h1>
         <p>
           There are two ways of spelling Brasil - Brazil with the &quot;z&quot;
           and Brasil with the &quot;s&quot;.

@@ -8,6 +8,12 @@ export default function Page() {
         <li>
           <BasicLink href="/blog/brasil" title="Brasil" />
         </li>
+        <li>
+          <BasicLink
+            href="/blog/interstellaronplane"
+            title="Interstellar on Plane (WARNING SPOILERS)"
+          />
+        </li>
         {/* <li>
           <Link href="/blog/brasil">Page 2</Link>
         </li>
