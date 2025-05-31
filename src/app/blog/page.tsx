@@ -14,6 +14,9 @@ export default function Page() {
             title="Interstellar on Plane (WARNING SPOILERS)"
           />
         </li>
+        <li>
+          <BasicLink href="/blog/split-keyboard" title="Building a Cheapino (Split Keyboard)" />
+        </li>
         {/* <li>
           <Link href="/blog/brasil">Page 2</Link>
         </li>
